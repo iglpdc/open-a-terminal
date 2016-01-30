@@ -18,11 +18,11 @@ operating systems supported.
 > for instructions on formatting, building, and submitting lessons, or run
 > `make` in this directory for a list of helpful commands.
 >
-> Please see also [CONTRIBUTING](CONTRIBUTING).
+> Please see also [CONTRIBUTING.md](CONTRIBUTING.md).
 
 To add a new operating system or distribution:
 
-1. Create a markdown file with the name of the OS
+1. Create a markdown file with the name of the OS.
 2. Describe where to find the terminal application.
 3. Add your screenshots in the `figs/` folder.
 3. Modify `index.md` to list the new OS.
