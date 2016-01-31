@@ -8,7 +8,7 @@ instructions on how to open a terminal.
 
 > ## Prerequisites {.prereq}
 >
-> None,, just go ahead!
+> None, just go ahead!
 
 ## List of operating systems
 
