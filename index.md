@@ -12,9 +12,9 @@ instructions on how to open a terminal.
 
 ## List of operating systems
 
-### Mac OSX
+### Mac OS X
 
-*  [Mac OSX](macosx.html)
+*  [Mac OS X](macosx.html)
 
 ### Windows
 
