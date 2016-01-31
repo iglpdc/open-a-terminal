@@ -20,4 +20,4 @@ instructions on how to open a terminal.
 
 ### GNU/Linux
 
-
+* [Ubuntu](ubuntu.html)
