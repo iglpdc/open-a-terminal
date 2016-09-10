@@ -12,4 +12,4 @@ Applications > Utilities > Terminal.
 
 To open "Terminal" double-click on the icon.
 
-![Open a terminal in Mac OSX](figs/macosx.png)
+![Open a terminal in Mac OSX](../figs/macosx.png)
